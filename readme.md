@@ -37,7 +37,7 @@ webstudio-project/
 
 ## ✅ Requirements Checklist
 
-### Proje
+### Project
 
 - All images stored in `images/` folder.
 - CSS styles placed in `css/styles.css`.
@@ -49,7 +49,7 @@ webstudio-project/
 - Images optimized with Squoosh.
 - Code follows project coding guidelines.
 
-### İşaretleme
+### Marking
 
 - Portfolio section marked up in `index.html`.
 - Semantic HTML elements used (`header`, `main`, `section`, `footer`, etc.).
@@ -61,7 +61,7 @@ webstudio-project/
 - Groups of elements wrapped in `<ul>` lists.
 - Google Fonts connected in a single link (Raleway 700, Roboto 400/500/700).
 
-### Tasarım
+### Design
 
 - Class selectors used for styling.
 - `!important` in styles.
