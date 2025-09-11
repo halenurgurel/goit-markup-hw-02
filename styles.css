@@ -23,11 +23,20 @@ body {
   color: #2e2f42;
 }
 
+.list {
+  list-style: none;
+}
+
 .menu a {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   color: #434455;
+  text-decoration: none;
+}
+
+.contacts {
+  list-style: none;
 }
 
 .contacts a {
@@ -35,6 +44,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: #434455;
+  text-decoration: none;
 }
 
 .menu a:hover,
