@@ -1,0 +1,149 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #2e2f42;
+}
+
+/* HEADER */
+
+.header {
+  border-bottom: 1px solid #e7e9fc;
+}
+
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #4d5ae5;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.logo .studio {
+  color: #2e2f42;
+}
+
+.menu a {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #434455;
+}
+
+.contacts a {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #434455;
+}
+
+.menu a:hover,
+.contacts a:hover {
+  color: #404bbf;
+}
+
+/* HERO */
+.hero {
+  color: white;
+  background-color: #2e2f42;
+  text-align: center;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 3.75;
+}
+
+.btn {
+  color: white;
+  background-color: #4d5ae5;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: center;
+  cursor: pointer;
+  border: none;
+  border-radius: 4px;
+}
+
+.btn:hover {
+  background-color: #404bbf;
+}
+
+/* FEATURES */
+
+.features h3 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+.features p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.team {
+  background-color: #f4f4fd;
+}
+
+.team h2 {
+  text-align: center;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 2.5;
+}
+
+.member h3 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+.member p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+/* PORTFOLIO */
+
+.portfolio h2 {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 2.5;
+  text-align: center;
+}
+
+.portfolio h3 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+.portfolio p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.footer {
+  background-color: #2e2f42;
+}
+
+.footer .logo {
+  line-height: 1.31;
+}
+
+.footer .studio2 {
+  color: #f4f4fd;
+}
+
+.footer p {
+  color: #e7e9fc;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+}
