@@ -37,7 +37,7 @@ webstudio-project/
 
 ## ✅ Requirements Checklist
 
-### Proje
+### Project
 
 - All images stored in `images/` folder.
 - CSS styles placed in `css/styles.css`.
