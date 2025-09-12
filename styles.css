@@ -62,7 +62,7 @@ body {
 h1 {
   font-weight: 700;
   font-size: 56px;
-  line-height: 3.75;
+  line-height: 1.5;
 }
 
 .btn {
@@ -83,6 +83,10 @@ h1 {
 
 /* FEATURES */
 
+.feature {
+  list-style: none;
+}
+
 .features h3 {
   font-weight: 500;
   font-size: 20px;
@@ -94,6 +98,7 @@ h1 {
   font-size: 16px;
   line-height: 1.5;
 }
+/* TEAM */
 
 .team {
   background-color: #f4f4fd;
@@ -103,7 +108,11 @@ h1 {
   text-align: center;
   font-weight: 700;
   font-size: 36px;
-  line-height: 2.5;
+  line-height: 1.5;
+}
+
+.member {
+  list-style: none;
 }
 
 .member h3 {
@@ -120,17 +129,21 @@ h1 {
 
 /* PORTFOLIO */
 
+.card {
+  list-style: none;
+}
+
 .portfolio h2 {
   font-weight: 700;
   font-size: 36px;
-  line-height: 2.5;
+  line-height: 0.5;
   text-align: center;
 }
 
 .portfolio h3 {
   font-weight: 500;
   font-size: 20px;
-  line-height: 1.5;
+  line-height: 0.5;
 }
 
 .portfolio p {
